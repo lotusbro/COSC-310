@@ -55,5 +55,6 @@ We have also added extra topics for our agent's repertoire and our agent can giv
 * We can also extract our Sentiment Analysis feature and users can make use of this to process text and analyze user sentiment and the bot would respond appropriately.
 * Our Named Entity Recognition can be extracted too for an API. This feature would help the bot analyze which parts of a text are named entities which increases efficiency.
 * The whole SportsBot can be extracted as an API and used for sports trivia purposes.
-
+## Additional Features:
+* Added a translator API from google where you are able to see google translate 
 
