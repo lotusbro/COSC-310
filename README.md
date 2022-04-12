@@ -56,5 +56,8 @@ We have also added extra topics for our agent's repertoire and our agent can giv
 * Our Named Entity Recognition can be extracted too for an API. This feature would help the bot analyze which parts of a text are named entities which increases efficiency.
 * The whole SportsBot can be extracted as an API and used for sports trivia purposes.
 ## Additional Features:
-* Added a translator API from google where you are able to see google translate 
+The project has currently added a translation API that translates to a different form of language and translates parts of the conversation when prompted by another API called Named Recognition. This allows the bot to translate parts of conversations. This helps with multilingual cultures where I have currently set it to Japanese.
+
+The project has also added another API from Wikipedia where it detects the conversation and displays relevant information. This will allow the user to feel better in tuned with the conversation and understand anything such as a sports related term 
+
 
